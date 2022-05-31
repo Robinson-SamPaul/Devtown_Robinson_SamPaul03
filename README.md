@@ -1,2 +1,2 @@
-# Devtown_Robinson_SamPaul03
-Created with CodeSandbox
+# Devtown_Robinson_SamP
+Amazon Clone using JavaScript and React
